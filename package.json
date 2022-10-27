@@ -1,10 +1,13 @@
 {
-  "name": "aAVpP2iKZ2ylqndwFlhmMqGVnI1D6UMS8VYp3qPAOLTbdZBwOO",
+  "name": "choklotto แตกต่างกันอย่างไร - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.25",
   "description": "Choklotto ทุกการลงทุนมีความเสี่ยง Choklotto จนถึง Choklotto Ruay หวยออนไลน์ อันดับหนึ่ง คอหวยหุ้น ทั้งหลาย จะต้องศึกษาข้อมูลให้ดีก่อน ลงมือเสี่ยง สำหรับหุ้",
   "repository": "https://github.com/gullibles-02/outdoor-13",
-  "keywords": ["CHOKLOTTO","CHOKLOTTO Ruay"],
+  "keywords": [
+    "CHOKLOTTO",
+    "CHOKLOTTO Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
