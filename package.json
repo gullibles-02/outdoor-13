@@ -1,10 +1,16 @@
 {
-  "name": "Vzb9JPTio69ciGj45ageeWtFkA18A2Bg8CvHUTHsVNnXVDhTBV",
+  "name": "สูตรคํานวณหวยปิงปอง pantip คืออะไร - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.15",
   "description": "สูตรคํานวณหวยปิงปอง pantip เลขเด็ด ใน สูตรคํานวณหวยปิงปอง pantip ที่ Huay เว็บหวยออนไลน์ อันดับหนึ่ง แนวทางหวยรัฐบาลในงวดวันที่ 1 เมษายน 2566 นี้ ทางเว็บไซ",
   "repository": "https://github.com/gullibles-02/outdoor-13",
-  "keywords": ["สูตรคํานวณหวยปิงปอง PANTIP","สูตรคํานวณหวยปิงปอง","PANTIP","สูตรคํานวณหวยปิงปอง Huay","PANTIP Huay"],
+  "keywords": [
+    "สูตรคํานวณหวยปิงปอง PANTIP",
+    "สูตรคํานวณหวยปิงปอง",
+    "PANTIP",
+    "สูตรคํานวณหวยปิงปอง Huay",
+    "PANTIP Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
