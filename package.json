@@ -1,10 +1,13 @@
 {
-  "name": "9nFtWM93Jcdxx9IaQhlriV8oQfBlGi0yB7c9QrGtgY3K6s1ABM",
+  "name": "เว็บ999 เลือกยังไง - เว็บใหม่ huay 2023 ล่าสุด-",
   "theme": "syntax",
   "version": "1.0.9",
   "description": "เว็บ999 เลข จาก เว็บ999 Huay หวย หวยออนไลน์ มีหวยทุกชนิด 3 ตัว ให้มา 1 ชุด คือ 874ส่วนเลข 2 ตัว คือ 39 35 32 76 79 74ขอให้สนุกกับการซื้อหวยออนไลน์งวดนี้ค่ะ",
   "repository": "https://github.com/gullibles-02/outdoor-13",
-  "keywords": ["เว็บ999","เว็บ999 Huay"],
+  "keywords": [
+    "เว็บ999",
+    "เว็บ999 Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
