@@ -1,10 +1,16 @@
 {
-  "name": "kYQSyNIdUXSkLqEO2IGSkdRwcpNEGcFkvS6z3eMEpskDtC6Kr9",
+  "name": "นิเคอิย้อนหลัง รวย แตกต่างกันอย่างไร - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.21",
   "description": "นิเคอิย้อนหลัง รวย หวยฮานอยจะมีออกผลวันละ แด่ นิเคอิย้อนหลัง รวย Lotto ล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด 1 รอบเท่านั้น",
   "repository": "https://github.com/gullibles-02/outdoor-13",
-  "keywords": ["นิเคอิย้อนหลัง รวย","นิเคอิย้อนหลัง","รวย","นิเคอิย้อนหลัง Lotto","รวย Lotto"],
+  "keywords": [
+    "นิเคอิย้อนหลัง รวย",
+    "นิเคอิย้อนหลัง",
+    "รวย",
+    "นิเคอิย้อนหลัง Lotto",
+    "รวย Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
