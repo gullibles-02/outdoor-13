@@ -1,16 +1,10 @@
 {
-  "name": "999lucky สมัคร มีคำตอบ - เว็บใหม่ lotto 2023 ล่าสุด",
+  "name": "mNd2BppfREiWVNtIhMPgHEEwdA0XICI713uMaMVZtkhLQVJdrj",
   "theme": "syntax",
   "version": "1.0.7",
   "description": "999Lucky สมัคร ชอบเลข แม้ 999Lucky สมัคร Lotto หวยออนไลน์ อันดับหนึ่ง 7 ถ่อมตัว เป็นคนพิถีพิถันในทุกๆ เรื่อง อยากได้อะไรต้องหาหลายๆ อย่างมารวมกัน แล้วค่อยค",
   "repository": "https://github.com/gullibles-02/outdoor-13",
-  "keywords": [
-    "999LUCKY สมัคร",
-    "999LUCKY",
-    "สมัคร",
-    "999LUCKY Lotto",
-    "สมัคร Lotto"
-  ],
+  "keywords": ["999LUCKY สมัคร","999LUCKY","สมัคร","999LUCKY Lotto","สมัคร Lotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
