@@ -1,10 +1,18 @@
 {
-  "name": "jYBxj9QraUPCgGU4vBCZbNHlyF9wYltZNpEUs3PP1DO3MMIM4L",
+  "name": "เช็ค หวย อียิปต์ ดูที่ไหน - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.55",
   "description": "เช็ค หวย อียิปต์ หมายเหตุ กับ เช็ค หวย อียิปต์ Huaysod หวยออนไลน์ อันดับหนึ่ง หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออกรางวัลที่ถูกต้องตามกฎ",
   "repository": "https://github.com/gullibles-02/outdoor-13",
-  "keywords": ["เช็ค หวย อียิปต์","เช็ค","หวย","อียิปต์","เช็ค Huaysod","หวย Huaysod","อียิปต์ Huaysod"],
+  "keywords": [
+    "เช็ค หวย อียิปต์",
+    "เช็ค",
+    "หวย",
+    "อียิปต์",
+    "เช็ค Huaysod",
+    "หวย Huaysod",
+    "อียิปต์ Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
