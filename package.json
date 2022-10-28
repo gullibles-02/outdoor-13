@@ -1,13 +1,10 @@
 {
-  "name": "ตรวจหวย16มีนาคม2565 ที่ไหน - เว็บใหม่ ruay 2023 ล่าสุด",
+  "name": "z5bjK99cM8BbII75c0dzvOd4Bb3DxUQlghAR9FEvjPCkmrrBbd",
   "theme": "syntax",
   "version": "1.0.65",
   "description": "ตรวจหวย16มีนาคม2565 หวยลาว หรือ ตรวจหวย16มีนาคม2565 Ruay รวย หวยออนไลน์ มีหวยทุกชนิด ຫວຍລາວ หรือ หวยพัฒนา ( ຫວຍພັດທະນາ ) ที่กำลังเป็นที่นิยมอยู่ในขณะนี้ แล",
   "repository": "https://github.com/gullibles-02/outdoor-13",
-  "keywords": [
-    "ตรวจหวย16มีนาคม2565",
-    "ตรวจหวย16มีนาคม2565 Ruay"
-  ],
+  "keywords": ["ตรวจหวย16มีนาคม2565","ตรวจหวย16มีนาคม2565 Ruay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
